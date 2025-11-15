@@ -34,6 +34,62 @@ __Algorithm:__
 
 __Programme:__
 
+```
+import numpy as np
+
+import matplotlib.pyplot as plt
+
+Ac=8
+
+fc-2500
+
+Am 2.5
+
+fm=450
+
+fs-25000
+
+beta3.6
+
+tnp.arange(0, 2/fm, 1/fs)
+
+Em Am np.cos(2 np.pi fmt)
+
+EcAc np.cos(2 np.pi fct)
+
+EfmAc np.cos(2 np.pi fct+beta np.sin(2* np.pi fm *t))
+
+plt.figure(figsize (10,6))
+
+plt.subplot(3, 1, 1)
+
+plt.plot(t, Em)
+
+plt.grid()
+
+plt.subplot(3, 1, 2)
+
+plt.plot(t, Ec)
+
+plt.grid()
+
+plt.subplot(3, 1, 3)
+
+plt.plot(t, Efm)
+
+plt.grid()
+
+plt.tight_layout()
+
+plt.show()
+
+```
+
 __Output:__
 
+![WhatsApp Image 2025-11-15 at 9 00 05 AM](https://github.com/user-attachments/assets/4a530f20-2c56-434d-b3a1-4c7851e9f2fc)
+
+
 __Result:__
+
+The message signal,carrier signal and fm signam will be displayed in separete plots. The message plots show frequency variations corresponding to the amplitude of the message signal

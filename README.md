@@ -39,17 +39,17 @@ import numpy as np
 
 import matplotlib.pyplot as plt
 
-Ac=8
+Ac=12.5
 
-fc-2500
+fc=5000
 
-Am 2.5
+Am= 9.5
 
-fm=450
+fm=590
 
 fs-25000
 
-beta3.6
+beta=3.6
 
 tnp.arange(0, 2/fm, 1/fs)
 

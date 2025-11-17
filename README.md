@@ -84,6 +84,11 @@ plt.tight_layout()
 plt.show()
 
 ```
+ ### TABULATION:
+ ![499305986-465f240a-607b-468f-b130-7f954204d0eb](https://github.com/user-attachments/assets/1687d7bf-4953-4e63-bc82-d529d4d2020e)
+
+### CALCULATION:
+![499306094-7a945e1a-f629-49c8-b38d-5397a6b285e2](https://github.com/user-attachments/assets/e2232b2b-c848-4742-9fa0-13452c2206ff)
 
 __Output:__
 
